@@ -31,5 +31,5 @@ System.out.println("I'm a Computer Science undergrad");
 ```.js
  My Social Profiles
 ```
--[Linkedin](https://www.linkedin.com/in/mukut-das/)
+-[![Linkedin](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mukut-das/)
 -[Instagram](https://www.instagram.com/21.and_not.over/)
