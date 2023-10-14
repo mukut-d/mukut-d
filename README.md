@@ -1,35 +1,29 @@
-### Hi there!, I'm Mukut 👋
 
-<!--
-**mukut-d/mukut-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a passionate Software developer from India 🇮🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## My name is Mukutmani Das
-I'm a newbie in open Source community
-Currently, learning *Data Structures and Algorithms* using **Youtube** and **GitHub** repos.
-### Aim
-I want to be make a stellar github profile so that i'm on the recruiter's radar.
-Also want to be a ***CONTRIBUTER*** 
-My preferred technology is `java`
-```js
-System.out.println("I'm a Computer Science undergrad");
-//I'm in Third year of my undergraduate studies.
-```
+**About me**
 
-![My Pic](https://cvws.icloud-content.com/B/ATxmoMCHyWUtA5kr3LLT5G8vf9FWAeEvbCUyYiAN0XcU98J8EolXi0lM/73caac0e-c565-4fa0-8646-c2a14ab74584.jpg?o=Anw73q97XTmO7GaO1FulCPo6QvMKFVhwnqrIXNU1jDQT&v=1&x=3&a=CAogUKw8WCX2780r9US38KAvvAQWABteP5wG5zS-TjNGcpMSbxD4qLO9xjAY-IWPv8YwIgEAUgQvf9FWWgRXi0lMaidHL8Zb6Km4rXoLKZZVcoyhuqQ1cUo_1S4m3uXHN9yE_OPUuuqh3tByJ1ghJp18CEiVwXKelwaV7_HPfYgwY-vf_a445eRsXATC7JXQdwUZsg&e=1668190290&fl=&r=4e41eaac-2ae7-4774-97fc-c1614bce4755-1&k=f7adCJKRjCagtwp9ssOFGQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=107&s=xQwtS2AgAhlBuSIFl0WvW9htEcE&cd=i)
+- ❤️ I build MERN Stack apps, and have fun experiments on type-level
 
-```.js
- My Social Profiles
-```
--[![Linkedin](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mukut-das/)
--[Instagram](https://www.instagram.com/21.and_not.over/)
+- 💬 Ask me about anything [here](https://github.com/mukut-d/mukut-d/issues)
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukut-d&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+
+<a href="https://twitter.com/Antique_Spinach">
+  <img align="right" alt="Mukut Das | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mukut-das">
+  <img align="right" alt="Mukut Das | LinkedIn" width="21px" src="https://pixabay.com/get/gb3b792c646fd1d34816159d9201f74a59432e310710efdcaa59cf2ad14609d171f790b1267575b83320e89cf82f2875a_640.png" />
+</a>
+
