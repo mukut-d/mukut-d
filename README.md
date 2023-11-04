@@ -28,7 +28,6 @@ I'm a passionate Software Engineer from India 🇮🇳
 
 <br />
 <br />
-[![An image of @mukutd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukutd)](https://holopin.io/@mukutd)
 
 <br />
 <a href="https://twitter.com/Antique_Spinach">
