@@ -26,7 +26,6 @@ I'm a passionate Software Engineer from India 🇮🇳
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukut-d&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 [![An image of @mukutd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukutd)](https://holopin.io/@mukutd)
