@@ -7,13 +7,13 @@ I'm a passionate Software Engineer from India 🇮🇳
 
 ** ⚡ About me**
 
-- ❤️ I build MERN Stack apps, and have fun experiments on type-level
+- ❤️ I build Cross-Platform Mobile apps using React Native, and have fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/mukut-d/mukut-d/issues)
--  🔭 I’m currently working on MERN stack Project
-- 🌱 I’m currently learning Business Development
-- 👯 I’m looking to collaborate on Technology related to Full-Stack development
-- 🤔 I’m looking for tech jobs and gigs in full-stack development
+-  🔭 I’m currently working on React Native Projects
+- 🌱 I’m currently learning Software Development
+- 👯 I’m looking to collaborate on Technology related to Full-Stack development or mobile development
+- 🤔 I’m looking for tech jobs and gigs in mobile app development
 - 📫 How to reach me: You can always contact via mail mukut.m.das2000@gmail.com
 
    <br>
