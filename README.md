@@ -7,7 +7,7 @@ I'm a passionate Software Engineer from India 🇮🇳
 
 ** ⚡ About me**
 
-- ❤️ I build Cross-Platform Mobile apps using React Native, and have fun experiments on type-level
+- ❤️ I build WebApps using MERN stack, and have fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/mukut-d/mukut-d/issues)
 -  🔭 I’m currently working on Full Stack(MERN) Projects
