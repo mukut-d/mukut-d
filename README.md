@@ -10,8 +10,8 @@ I'm a passionate Software Engineer from India 🇮🇳
 - ❤️ I build Cross-Platform Mobile apps using React Native, and have fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/mukut-d/mukut-d/issues)
--  🔭 I’m currently working on React Native Projects
-- 🌱 I’m currently learning Software Development
+-  🔭 I’m currently working on Full Stack(MERN) Projects
+- 🌱 I’m currently learning Software Engineering, particularly DevOps(Kubernetes).
 - 👯 I’m looking to collaborate on Technology related to Full-Stack development or mobile development
 - 🤔 I’m looking for tech jobs and gigs in mobile app development
 - 📫 How to reach me: You can always contact via mail mukut.m.das2000@gmail.com
