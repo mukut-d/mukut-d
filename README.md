@@ -13,7 +13,7 @@ I'm a passionate Software Engineer from India 🇮🇳
 -  🔭 I’m currently working on Full Stack(MERN) Projects
 - 🌱 I’m currently learning Software Engineering, particularly DevOps(Kubernetes).
 - 👯 I’m looking to collaborate on Technology related to Full-Stack development or mobile development
-- 🤔 I’m looking for tech jobs and gigs in mobile app development
+- 🤔 I’m looking for tech jobs and gigs in full stack app development
 - 📫 How to reach me: You can always contact via mail mukut.m.das2000@gmail.com
 
    <br>
